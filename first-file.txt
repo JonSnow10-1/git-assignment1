@@ -5,6 +5,3 @@ Adding Text...
 
 Updated File in feature branch
 
-Edit 2
-
-New feature branch update
