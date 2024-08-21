@@ -7,3 +7,4 @@ Updated File in feature branch
 
 Editing done in GitHub
 
+Updating the file using VS Code
